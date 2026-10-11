@@ -1,0 +1,9 @@
+{
+  "appId": "com.hollowward.game",
+  "appName": "The Hollow Ward",
+  "webDir": "app",
+  "backgroundColor": "#060605",
+  "android": {
+    "allowMixedContent": false
+  }
+}
